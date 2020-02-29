@@ -1,9 +1,7 @@
 # 룸스타 RoomSTAR
 
 
-<center>
-<img src="./README.assets/logo.png" width="300" height="300">
-</center>
+<center><img src="https://github.com/RS-roomSTAR/RoomSTAR/blob/master/README.assets/logo.png?raw=true" width="300" height="300"></center>
 
 <p align="center">
 "Show your voice, Shine like a star."
