@@ -2,7 +2,7 @@
 
 
 
-<img src="./README.assets/logo.png" width="300" height="300">
+<img align="center" src="./README.assets/logo.png" width="300" height="300">
 
 <p align="center">
 "Show your voice, Shine like a star."
