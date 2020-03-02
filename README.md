@@ -29,6 +29,4 @@
 -  Server: AWS EC2 배포
 실시간 스트리밍을 통해 사용자 2명이 노래 대결을 펼치면 시청자들이 실시간 투표를 통해 승/패를 가리는 웹/앱서비스 구현
 
-
-
-<img src="../../../AppData/Roaming/Typora/typora-user-images/image-20200302211731501.png" alt="image-20200302211731501" style="zoom:50%;" />
+![image-20200302211922507](README.assets/introduce)
