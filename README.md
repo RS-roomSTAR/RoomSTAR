@@ -96,33 +96,37 @@ Socket.io
 
 ##### 노래선택
 
+<p align="center">
 <img src="README.assets/MusicSelectCut.gif">
-
+</p>
 
 
 ##### 사용자관점
 
 - 선택 노래 재생
 
-<img src="README.assets/SingerCut.gif">
 
+<p align="center">
+<img src="README.assets/SingerCut.gif">
+</p>
 
 
 ##### 시청자관점
 
-- 투표
+- 실시간 투표
 - 채팅
 
+<p align="center">
 <img src="README.assets/WatcherCut.gif">
-
-
+</p>
 
 
 
 ## 개발자소개
 
+<p align="center">
 <img src="README.assets/Intro.gif">
-
+</p>
 
 
 
