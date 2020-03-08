@@ -133,7 +133,7 @@ Socket.io
 
 ## 부록
 
-![logo2](README.assets/logo2.png)
+![logo4](README.assets/logo4.png)
 
 
 
