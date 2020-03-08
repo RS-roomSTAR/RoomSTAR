@@ -38,9 +38,13 @@
 
 ## RoomSTAR?
 
-**RoomSTAR**는 Socket I/O를 통한 **실시간 스트리밍 노래배틀** 반응형 Progressive Web App입니다. 문의사항이 있으신 경우 e-mail로 연락바랍니다.
+**RoomSTAR**는 Socket I/O를 통한 **실시간 스트리밍 노래배틀** 반응형 Progressive Web App입니다. 
+
+문의사항이 있으신 경우 e-mail로 연락바랍니다.
 
 <p align="center">makeartweek@gmail.com</p>
+
+
 
 
 
@@ -50,17 +54,25 @@
 
 Vue.js, Socket.io, WebRTC
 
+
+
 ##### Back-End
 
 Spring Boot, MariaDB
+
+
 
 ##### Storage
 
 Firebase Starage를 사용한 이미지/동영상 파일 업로드/다운로드 기능 구현
 
+
+
 ##### Server
 
 AWS EC2
+
+
 
 ##### Network
 
@@ -73,14 +85,7 @@ Socket.io
 
 ## 소개 영상
 
-
-
-<video src="">
-</video>
-
-
-
-
+[![asciicast](./README.assets/VideoThumButton.png)](https://play-tv.kakao.com/v/407102314)
 
 
 
@@ -117,6 +122,8 @@ Socket.io
 ## 개발자소개
 
 <img src="README.assets/Intro.gif">
+
+
 
 
 
